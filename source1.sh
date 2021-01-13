@@ -10,4 +10,4 @@ win1 geaendert
 sechs geaendert
 sieben geaendert
 acht
-linux1 local
+linux1 localaaasd
